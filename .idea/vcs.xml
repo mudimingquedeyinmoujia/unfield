@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner/pybind11/tools/clang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner/redner-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner/thrust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redner/xatlas" vcs="Git" />
+  </component>
+</project>
